@@ -1,0 +1,12 @@
+#======= Decal LifeSpan Calculation ========#
+|
+| For Timeline PlayRate:                     
+|
+| 1.25 sec = 100%
+| 3.75 sec = Min (x3)
+| 6.25 sec = Max (x5)
+|
+| 3.75 / 1.25 = 3 => PlayRate: 1 / 3 = 0.334
+| 6.25 / 1.25 = 5 => PlayRate: 1 / 5 = 0.2
+|                                           
+#======= Decal LifeSpan Calculation ========#
