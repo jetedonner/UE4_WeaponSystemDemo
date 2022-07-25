@@ -9,4 +9,6 @@
 | 3.75 / 1.25 = 3 => PlayRate: 1 / 3 = 0.334
 | 6.25 / 1.25 = 5 => PlayRate: 1 / 5 = 0.2
 |                                           
+| 0.8 / 3.75
+|
 #======= Decal LifeSpan Calculation ========#
