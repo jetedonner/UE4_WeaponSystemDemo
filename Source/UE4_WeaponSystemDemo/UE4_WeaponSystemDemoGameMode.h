@@ -6,14 +6,17 @@
 #include "GameFramework/GameModeBase.h"
 #include "UE4_WeaponSystemDemoGameMode.generated.h"
 
-UCLASS(minimalapi, Config=Game, defaultconfig)
+UCLASS(minimalapi, config=Configproject)
 class AUE4_WeaponSystemDemoGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
 public:
 	AUE4_WeaponSystemDemoGameMode();
-};
+    
+    UPROPERTY(Config)
+    int ExampleVariable;
+};π
 
 
 
