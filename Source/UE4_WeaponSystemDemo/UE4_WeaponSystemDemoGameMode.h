@@ -16,7 +16,7 @@ public:
     
     UPROPERTY(Config)
     int ExampleVariable;
-};π
+};
 
 
 
