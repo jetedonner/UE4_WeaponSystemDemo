@@ -12,5 +12,6 @@ AUE4_WeaponSystemDemoGameMode::AUE4_WeaponSystemDemoGameMode()
 //	{
 //		DefaultPawnClass = PlayerPawnBPClass.Class;
 //	}
-    LoadConfig();
+//    SaveConfig();
+//    LoadConfig();
 }
