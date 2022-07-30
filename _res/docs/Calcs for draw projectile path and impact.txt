@@ -1,0 +1,9 @@
+Calcs for draw projectile path and impact
+
+
+
+Idx: 	0	1	2	3	4	5	6	7	8	9
+Val:	10	13	16	19	22	25	28	31	34	37
+Dash0:	---			---			---			---
+Dash1:		---			---			---		
+Dash2:			---			---			---
